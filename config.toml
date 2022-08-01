@@ -1,4 +1,4 @@
 baseURL = 'http://zoewaldron.com/'
 languageCode = 'en-GB'
 title = 'Zoe Waldron'
-theme = "ananke"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
