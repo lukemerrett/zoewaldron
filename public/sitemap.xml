@@ -2,10 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://zoewaldron.com/pages/about-me/</loc>
+    <lastmod>2022-08-01T16:12:23+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://zoewaldron.com/pages/childrens-book/</loc>
+    <lastmod>2022-08-01T16:12:23+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://zoewaldron.com/pages/</loc>
+    <lastmod>2022-08-01T16:12:23+01:00</lastmod>
+  </url><url>
+    <loc>http://zoewaldron.com/</loc>
+    <lastmod>2022-08-01T16:12:23+01:00</lastmod>
+  </url><url>
+    <loc>http://zoewaldron.com/categories/</loc>
+  </url><url>
+    <loc>http://zoewaldron.com/tags/</loc>
   </url>
 </urlset>

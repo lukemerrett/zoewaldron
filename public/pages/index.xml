@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zoe Waldron</title>
-    <link>http://zoewaldron.com/</link>
-    <description>Recent content on Zoe Waldron</description>
+    <title>Pages on Zoe Waldron</title>
+    <link>http://zoewaldron.com/pages/</link>
+    <description>Recent content in Pages on Zoe Waldron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Mon, 01 Aug 2022 16:12:23 +0100</lastBuildDate><atom:link href="http://zoewaldron.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 16:12:23 +0100</lastBuildDate><atom:link href="http://zoewaldron.com/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>http://zoewaldron.com/pages/about-me/</link>
