@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Zoe Waldron</title>
-    <link>http://zoewaldron.com/categories/</link>
+    <link>https://lukemerrett.github.io/zoewaldron/categories/</link>
     <description>Recent content in Categories on Zoe Waldron</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language><atom:link href="http://zoewaldron.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language><atom:link href="https://lukemerrett.github.io/zoewaldron/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

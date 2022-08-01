@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Zoe Waldron</title>
-    <link>http://zoewaldron.com/tags/</link>
+    <link>https://lukemerrett.github.io/zoewaldron/tags/</link>
     <description>Recent content in Tags on Zoe Waldron</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language><atom:link href="http://zoewaldron.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language><atom:link href="https://lukemerrett.github.io/zoewaldron/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
