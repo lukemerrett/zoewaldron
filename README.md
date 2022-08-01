@@ -1,6 +1,6 @@
 # Zoe Waldron
 
-Personal website for Zoe Waldron
+Personal website for Zoe Waldron, hosted at http://zoewaldron.com/
 
 ## Pre-requisites
 
