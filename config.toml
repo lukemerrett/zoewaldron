@@ -1,4 +1,4 @@
-baseURL = 'http://zoewaldron.com/'
+baseURL = 'https://lukemerrett.github.io/zoewaldron/'
 languageCode = 'en-GB'
 title = 'Zoe Waldron'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
